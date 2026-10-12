@@ -1,6 +1,6 @@
 # Odonto Gold
 
-**SaaS multi-tenant de gestão para consultórios odontológicos**: agenda, prontuário e anamnese com fotos, financeiro, cobrança recorrente e acesso por equipe, em uma única plataforma. Em produção, usado por clínicas reais.
+**SaaS multi-tenant de gestão para consultórios odontológicos**: agenda, prontuário e anamnese com fotos, financeiro, cobrança recorrente e acesso por equipe, em uma única plataforma. Em produção, usado por clínicas e por uma instituição de pós-graduação em Odontologia.
 
 🔗 **Site:** [www.odontogold.com.br](https://www.odontogold.com.br)
 
